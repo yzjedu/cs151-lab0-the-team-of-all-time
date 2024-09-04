@@ -1,0 +1,7 @@
+print ("CS151 Lab 0")
+print ("Hazel Osborne")
+print ("She sings and plays guitar")
+print ("She is an applied math major")
+print ("She has TWO dogs")
+print ("she is a barista, but like she isnt active right now")
+print ("her favorite game is stardew valley")
